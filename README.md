@@ -3,7 +3,7 @@ The Visual Studio 2019 Solution contains the solution code for IGCSE Computer Sc
 Programming languages: C++
 
 ### Code files:  
-C++ = `./Pseudo_v3.txt`  
+C++ = `./IG-CS 2020 Program/IG-CS 2020 Program.cpp`  
 
 VS Solution = `./0478_m20_prerelease.sln`  
 Question = `./0478_m21_prerelease.pdf`
